@@ -1,0 +1,11 @@
+{
+  "name": "gecko-dev-scripts-job-redirector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EnderDev/gecko-dev-scripts-job-redirector",
+  "author": "EnderDev <kieran@dothq.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.0"
+  }
+}
